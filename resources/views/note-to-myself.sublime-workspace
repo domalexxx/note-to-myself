@@ -1,0 +1,2324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-col",
+				"bs3-col:4	bs3-col-4"
+			],
+			[
+				"note",
+				"noteStore"
+			],
+			[
+				"dev",
+				"developerToken"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Auth",
+				"Auth-user	Auth-user"
+			],
+			[
+				"acco",
+				"accountIsActive"
+			],
+			[
+				"ac",
+				"activated"
+			],
+			[
+				"activ",
+				"activateAccount"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"acti",
+				"activation_code"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"bs3",
+				"bs3-modal	bs3-modal"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar:form	bs3-navbar-form"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"res",
+				"resize〔function〕"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"Ar",
+				"Arial"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"do_shortc",
+				"do_shortcode〔function〕"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"contnet",
+				"content"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bg",
+				"bgsz	background-size"
+			],
+			[
+				"wp_res",
+				"wp_reset_postdata〔function〕"
+			],
+			[
+				"endfo",
+				"endforeach〔keyword〕"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"get_te",
+				"get_template_directory〔function〕"
+			],
+			[
+				"bre",
+				"breadcrumb"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"slide",
+				"slideshow"
+			],
+			[
+				"tmepl",
+				"template_url"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"show",
+				"show_admin_bar〔function〕"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"im",
+				"img	Image - Placeholder"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"Ses",
+				"Session-forget	Session-forget"
+			],
+			[
+				"Fo",
+				"Form-submit	Form-submit"
+			],
+			[
+				"Sess",
+				"Session-get	Session-get"
+			],
+			[
+				"Input",
+				"Input-all	Input-all"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"cli",
+				"client"
+			],
+			[
+				"clien",
+				"client_profile"
+			],
+			[
+				"js",
+				"jQuery.parseJSON	jQuery.parseJSON"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"Video",
+				"Videographer"
+			],
+			[
+				"Photogr",
+				"Photography"
+			],
+			[
+				"sear",
+				"searches"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"Project",
+				"Project"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"Photo",
+				"Photographer"
+			],
+			[
+				"Form",
+				"Form-submit	Form-submit"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"Contr",
+				"ControlGroup"
+			],
+			[
+				"ch",
+				"change	.change()"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"work",
+				"work"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"with",
+				"withAttributes"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"preview",
+				"previewSettings"
+			],
+			[
+				"strto",
+				"strtotime〔function〕"
+			],
+			[
+				"ini",
+				"initialPreview"
+			],
+			[
+				"Auh",
+				"Auth-id	Auth-id"
+			],
+			[
+				"phot",
+				"Photographer"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"un",
+				"unlink"
+			],
+			[
+				"In",
+				"Input-file	Input-file"
+			],
+			[
+				"photo",
+				"photographers"
+			],
+			[
+				"publi",
+				"public_path〔function〕"
+			],
+			[
+				"getClient",
+				"getClientOriginalExtension"
+			],
+			[
+				"amaz",
+				"amazon"
+			],
+			[
+				"pho",
+				"photovideosite"
+			],
+			[
+				"stora",
+				"storage_path"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"Sto",
+				"Storage"
+			],
+			[
+				"uns",
+				"unserialize"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"l",
+				"http://lorempixel.com/900/100"
+			],
+			[
+				"na",
+				"name	Attr"
+			],
+			[
+				"client",
+				"client_profile"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"new",
+				"newproject"
+			],
+			[
+				"HTML",
+				"HTML-link	HTML-link"
+			],
+			[
+				"loe",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"Au",
+				"Auth-id	Auth-id"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"For",
+				"Form-checkbox	Form-checkbox"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"user",
+				"user_role"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"my",
+				"myaccount"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"par",
+				"parents〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/config/app.php",
+			"settings":
+			{
+				"buffer_size": 8499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth/password.blade.php",
+			"settings":
+			{
+				"buffer_size": 1366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.blade.php",
+			"settings":
+			{
+				"buffer_size": 2499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/composer.json",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Controllers/WelcomeController.php",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Controllers/Auth/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 1420,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/app/User.php",
+			"settings":
+			{
+				"buffer_size": 1026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Middleware/Authenticate.php",
+			"settings":
+			{
+				"buffer_size": 897,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "home.blade.php",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 373.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"uplo",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sft",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"chea",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"che",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"place",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"snip",
+				"Snippet: bs3-modal"
+			],
+			[
+				"ch",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"Laravel Artisan: Up"
+			],
+			[
+				"sftp",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"compo",
+				"Composer: Update"
+			],
+			[
+				"composer re",
+				"Composer: Edit composer.json"
+			],
+			[
+				"com",
+				"Composer: Dump Autoload"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gith",
+				"Github: Pull Requests"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"j",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"pl",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"form",
+				"Laravel Facade: Form"
+			],
+			[
+				"u",
+				"Fake: uri"
+			],
+			[
+				"jq",
+				"Snippet: jQuery.ajax"
+			],
+			[
+				"cdn",
+				"Cdnjs: Search"
+			],
+			[
+				"tab",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"boo",
+				"Snippet: Bootstrapper: Progress::warning(percent)"
+			],
+			[
+				"fake",
+				"Fake: city"
+			],
+			[
+				"boots",
+				"Snippet: Bootstrap CSS"
+			],
+			[
+				"gene",
+				"Laravel Generate: Form"
+			],
+			[
+				"gener",
+				"Laravel Generate: View"
+			],
+			[
+				"lara",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"art",
+				"Laravel Facade: Artisan"
+			],
+			[
+				"liv",
+				"Laravel Generate: Pivot"
+			],
+			[
+				"img",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"image",
+				"Laravel Artisan: Migrate: Reset"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"lis",
+				"Laravel Artisan: List"
+			],
+			[
+				"list",
+				"List LESS variables"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"smart",
+				"Smartisan: Select Command"
+			],
+			[
+				"artis",
+				"Laravel Facade: Artisan"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML"
+			],
+			[
+				"sni",
+				"Snippet: bs3-icon"
+			],
+			[
+				"pager",
+				"Snippet: bs3-pager-aligned"
+			],
+			[
+				"tag",
+				"Snippet: bs3-pager"
+			],
+			[
+				"high",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"laravel",
+				"Laravel Facade: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"li",
+				"Laravel Artisan: Migrate: Install"
+			],
+			[
+				"googl",
+				"Snippet: Google Fonts"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"align",
+				"Snippet: bs3-pager-aligned"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ima",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"prettigy",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"SY",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"",
+				"Snippet: Main.sublime-menu"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"\"filezilla_db_path2\": \"/Users/[USER_NAME]/Documents/FileZilla.xml\"",
+			"\"filezilla_db_path\": \"/Users/[USER_NAME]/Documents/FileZilla.xml\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alex/Sites/note-to-myself.com",
+		"/Users/alex/Sites/note-to-myself.com/app",
+		"/Users/alex/Sites/note-to-myself.com/app/Http",
+		"/Users/alex/Sites/note-to-myself.com/app/Http/Controllers",
+		"/Users/alex/Sites/note-to-myself.com/resources",
+		"/Users/alex/Sites/note-to-myself.com/resources/views",
+		"/Users/alex/Sites/note-to-myself.com/resources/views/auth",
+		"/Users/alex/Sites/note-to-myself.com/resources/views/emails",
+		"/Users/alex/Sites/note-to-myself.com/storage",
+		"/Users/alex/Sites/note-to-myself.com/vendor",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/sample",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/src",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/src/EDAM",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/src/EDAM/NoteStore",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/src/EDAM/Types"
+	],
+	"file_history":
+	[
+		"/Users/alex/Sites/note-to-myself.com/storage/logs/laravel-2015-05-30.log",
+		"/Users/alex/Sites/note-to-myself.com/vendor/autoload.php",
+		"/Users/alex/Sites/note-to-myself.com/vendor/evernote/evernote-cloud-sdk-php/src/Evernote/Auth/OauthHandler.php",
+		"/Users/alex/Sites/note-to-myself.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/Users/alex/Sites/note-to-myself.com/resources/views/user/activateAccount.blade.php",
+		"/Users/alex/Sites/note-to-myself.com/resources/views/emails/activateAccount.blade.php",
+		"/Users/alex/Sites/note-to-myself.com/config/mail.php",
+		"/Users/alex/Sites/note-to-myself.com/database/migrations/2015_05_30_081605_update_users_table.php",
+		"/Users/alex/Sites/note-to-myself.com/.env.example",
+		"/Users/alex/Sites/note-to-myself.com/.env",
+		"/Users/alex/Sites/note-to-myself.com/vendor/compiled.php",
+		"/Users/alex/Sites/note-to-myself.com/app/Http/routes.php",
+		"/Users/alex/Sites/note-to-myself.com/resources/views/welcome.blade.php",
+		"/Users/alex/Sites/note-to-myself.com/.htaccess",
+		"/Users/alex/Sites/note-to-myself.com/config/database.php",
+		"/Users/alex/Sites/note-to-myself.com/config/app.php",
+		"/private/var/folders/bl/w7_5zwjd7tzgpfrd526wtln00000gn/T/fz3temp-1/index.php",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/editor-style.css",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/css/editor-style.css",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/sidebar.php",
+		"/Users/alex/Sites/blog.redlens.ca/wp-includes/shortcodes.php",
+		"/Users/alex/Sites/blog.redlens.ca/sftp-config.json",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/index.php",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/js/script.js",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/classes/Timeago.php",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/js/moment.js",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/sass/style.scss",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/config.rb",
+		"/Users/alex/Sites/blog.redlens.ca/wp-content/themes/blog/single.php",
+		"/Users/alex/Sites/site.adomashev.com/config/filesystems.php",
+		"/Users/alex/Sites/site.adomashev.com/config/app.php",
+		"/Users/alex/Sites/site.adomashev.com/public/css/app.css",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_projects.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_profile.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/newproject_video.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_newproject.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/photographer_portfolio.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Category.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/photographer_profile.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/search.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/UsersController.php",
+		"/Users/alex/Sites/site.adomashev.com/public/js/fileinput.min.js",
+		"/Users/alex/Sites/site.adomashev.com/public/css/fileinput.min.css",
+		"/Users/alex/Sites/site.adomashev.com/public/css/slick.css",
+		"/Users/alex/Sites/site.adomashev.com/public/js/script.js",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_profile_step.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/all_tasks.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/preview_task.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_confirm_step.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/ProjectsController.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/newproject_photo.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/sidebar.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/myaccount.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/routes.php",
+		"/Users/alex/Sites/site.adomashev.com/public/css/bootstrap.min.css",
+		"/Users/alex/Sites/site.adomashev.com/config/database.php",
+		"/Users/alex/Sites/site.adomashev.com/public/css/jquery.bxslider.css",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/app.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/WelcomeController.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/welcome.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/geousers.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/client_profile_step",
+		"/Users/alex/Sites/site.adomashev.com/app/Project.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/HomeController.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/alex/Sites/site.adomashev.com/app/User.php",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2015_05_11_050929_create_countries_table.php",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2015_05_11_030029_create_categories_table.php",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2015_05_11_045932_create_countries_table.php",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Sublime Text.cheatsheet",
+		"/Users/alex/Sites/site.adomashev.com/database/seeds/DatabaseSeeder.php",
+		"/Users/alex/Sites/site.adomashev.com/app/Http/Controllers/Auth/index.php",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/pages/newproject_photo",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/alex/Sites/site.adomashev.com/database/migrations/2015_05_10_172533_create_users_roles_table.php",
+		"/Users/alex/Sites/site.adomashev.com/composer.json",
+		"/Users/alex/Sites/site.adomashev.com/resources/views/inc/loginbody.blade.php",
+		"/Users/alex/Sites/site.adomashev.com/storage/framework/views/3f8a90141d4bffe3747a2c7b3d8a8052",
+		"/Users/alex/Sites/site.adomashev.com/.htaccess",
+		"/Users/alex/Sites/realtors/resources/views/auth/register.blade.php",
+		"/Users/alex/Sites/realtors/app/Http/routes.php",
+		"/Users/alex/Sites/realtors/app/Object.php",
+		"/Users/alex/Sites/realtors/resources/views/app.blade.php",
+		"/Users/alex/Sites/realtors/resources/views/home.blade.php",
+		"/Users/alex/Sites/realtors/app/Http/Controllers/ClientsController.php",
+		"/Users/alex/Sites/realtors/resources/views/emails/newclient.blade.php",
+		"/Users/alex/Sites/realtors/resources/views/templates/index.blade.php",
+		"/Users/alex/Sites/realtors/public/js/fileinput.min.js",
+		"/Users/alex/Sites/realtors/app/Client.php",
+		"/Users/alex/Sites/realtors/app/User.php",
+		"/Users/alex/Sites/realtors/app/Http/Controllers/ObjectsController.php",
+		"/Users/alex/Sites/realtors/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/alex/Sites/realtors/resources/views/templates/single.blade.php",
+		"/Users/alex/Sites/realtors/public/clients/10/index.blade.php",
+		"/Users/alex/Sites/clients/app/Client.php",
+		"/Users/alex/Sites/realtors/app/Http/Controllers/HomeController.php",
+		"/Users/alex/Sites/realtors/public/client/2/index.php",
+		"/Users/alex/Sites/clients/app/Http/Controllers/WelcomeController.php",
+		"/Users/alex/Sites/clients/app/Http/Controllers/HomeController.php",
+		"/Users/alex/Sites/clients/resources/views/home.blade.php",
+		"/Users/alex/Sites/clients/vendor/compiled.php",
+		"/Users/alex/Sites/clients/sftp-config.json",
+		"/Users/alex/Sites/realtors/.env",
+		"/Users/alex/Sites/realtors/config/database.php",
+		"/Users/alex/Sites/realtors/app/Services/Registrar.php",
+		"/Users/alex/Sites/clients/resources/views/welcome.blade.php",
+		"/Users/alex/Sites/clients/ftpsync.settings",
+		"/Users/alex/Sites/clients/config/database.php",
+		"/Users/alex/Sites/clients/server.php",
+		"/Users/alex/Sites/clients/config/app.php",
+		"/Users/alex/Sites/clients/bootstrap/app.php",
+		"/Users/alex/Sites/clients/.htaccess",
+		"/Users/alex/Sites/clients/public/.htaccess",
+		"/Users/alex/Sites/clients/public/index.php",
+		"/Users/alex/Sites/realtors/public/index.php",
+		"/Users/alex/Sites/clients/.env",
+		"/Users/alex/Sites/clients/.env.example",
+		"/Users/alex/Sites/clients/bootstrap/autoload.php",
+		"/Users/alex/Sites/realtors/sftp-config.json",
+		"/Users/alex/Sites/realtors/ftpsync.settings",
+		"/Users/alex/Sites/clients/config/compile.php",
+		"/Users/alex/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/alex/Sites/clients/realtors.json",
+		"/private/var/folders/bl/w7_5zwjd7tzgpfrd526wtln00000gn/T/fz3temp-1/database.php",
+		"/Users/alex/Sites/realtors/resources/views/inc/steps.blade.php",
+		"/Users/alex/Sites/realtors/storage/framework/views/2928b1595afacb71985af12c36cde54e"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"style.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"withContents",
+			"3",
+			"Client",
+			"class User",
+			"User",
+			"user",
+			"client",
+			"create",
+			"_secret",
+			"name",
+			"3",
+			"Group",
+			"'),\n",
+			"Control",
+			"control",
+			"4",
+			"=>",
+			"the_query",
+			"}\n",
+			"ul",
+			".block",
+			".slid",
+			".logo",
+			"h3",
+			"e7e7e7",
+			".nav",
+			"true",
+			"facebook10x21",
+			"heightClass",
+			"callback",
+			"20150523",
+			"20",
+			"div",
+			"200",
+			"800x600",
+			".active",
+			".nav",
+			"store",
+			"newproject_photo",
+			"default",
+			"button",
+			"place",
+			"bxslider2",
+			"photog",
+			"proje",
+			"myacc",
+			"$s",
+			"s",
+			"search",
+			"}}",
+			"{{",
+			"or ''",
+			"{",
+			"Burnaby",
+			"Rating",
+			"rating",
+			"900",
+			"Delta",
+			"Belcarra",
+			"Abbotsford",
+			"Register",
+			"Drag",
+			"file",
+			"btn-",
+			"file-preview-thumbnail",
+			"loading",
+			"default",
+			"public_path('photographers/'.Auth::id().'/avatar'",
+			"200",
+			"images/controls.png",
+			"single",
+			"title=\"The long and winding road\"",
+			"delete l",
+			"amount",
+			"text",
+			"amount",
+			"close",
+			"'style' => 'padding:50px'",
+			"panel",
+			">\n",
+			"md-2",
+			"123",
+			"Portfolio",
+			"photo",
+			"name",
+			"code",
+			"file",
+			"         	['category'=>'Celebrity'],\n",
+			"Celebrity",
+			",",
+			"array",
+			"username",
+			"users_roles",
+			"zip",
+			"fname",
+			"email",
+			"register",
+			"registerbody",
+			"duck",
+			"response.errors",
+			"password_confirm",
+			"passoword_confirm",
+			"passoword",
+			"append",
+			"parent",
+			"loginbody",
+			"control",
+			"echo",
+			"open",
+			"Collective",
+			"file-pre",
+			"options",
+			"Dotenv",
+			"__DIR__.'",
+			"__DIR__.",
+			"faker",
+			"{{",
+			"thumb",
+			"videos",
+			".",
+			"amenity[",
+			"\"amenity",
+			"\"Amenity",
+			"\"amenity",
+			"sports",
+			"value=\"",
+			"text4",
+			"text3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".popular2",
+			"#popular2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/alex/Sites/note-to-myself.com/config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5041,
+								5041
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								29,
+								23,
+								30,
+								49,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth/password.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1882,
+								1882
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/alex/Sites/note-to-myself.com/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/alex/Sites/note-to-myself.com/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								7,
+								51,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Controllers/WelcomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 303.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Controllers/Auth/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1411,
+								1411
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/alex/Sites/note-to-myself.com/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/alex/Sites/note-to-myself.com/app/Http/Middleware/Authenticate.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								223,
+								5,
+								30,
+								0,
+								12,
+								38,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 24.0
+	},
+	"output.exec":
+	{
+		"height": 34.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 77.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 24.0
+	},
+	"pinned_build_system": "",
+	"project": "note-to-myself.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"welc",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"side",
+				"resources/views/inc/sidebar.blade.php"
+			],
+			[
+				"slic",
+				"public/css/slick.css"
+			],
+			[
+				"geo",
+				"resources/views/inc/geousers.blade.php"
+			],
+			[
+				"sea",
+				"resources/views/pages/search.blade.php"
+			],
+			[
+				"app",
+				"public/css/app.css"
+			],
+			[
+				"scrip",
+				"public/js/script.js"
+			],
+			[
+				"file",
+				"public/css/fileinput.min.css"
+			],
+			[
+				"scri",
+				"public/js/script.js"
+			],
+			[
+				"proje",
+				"app/Http/Controllers/ProjectsController.php"
+			],
+			[
+				"pro",
+				"app/Project.php"
+			],
+			[
+				"",
+				"resources/views/pages/myaccount.blade.php"
+			],
+			[
+				"/app.bl",
+				"resources/views/app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 402.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
